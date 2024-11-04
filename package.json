@@ -2,5 +2,9 @@
   "dependencies": {
     "express": "^4.21.1",
     "puppeteer": "^23.6.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build command needed'"
   }
 }
